@@ -16,8 +16,8 @@
   <hr />
   
   <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mcamillosf&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamillosf&layout=compact&langs_count=7&theme=radical%22">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mcamillosf&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamillosf&layout=compact&langs_count=7&theme=radical">
   </div>
   
   <hr />
@@ -43,6 +43,10 @@
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
   </p>
+  
+  <hr />
+  
+  <p>Inspirado por <a href="https://github.com/RoyMusthang">RoyMusthang</>
   
 <!--
 **mcamillosf/mcamillosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
