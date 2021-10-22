@@ -46,6 +46,14 @@
   
   <hr />
   
+  ## Projetos:
+  <p>https://mcamillosf.github.io/pixel-art/</p>
+  <p>https://mcamillosf.github.io/mcamillosftrybewarts.github.io/</p>
+  <p>https://mcamillosf.github.io/to-do-list/</p>
+  <p>https://mcamillosf.github.io/recipes-app/#/</p>
+  
+  <hr />
+  
   <p>Inspirado por <a href="https://github.com/RoyMusthang">RoyMusthang</>
   
 <!--
