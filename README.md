@@ -46,11 +46,11 @@
   
   <hr />
   
-  ## Projetos:
+  ### Projetos:
   <p>https://mcamillosf.github.io/pixel-art/</p>
   <p>https://mcamillosf.github.io/trybewarts/</p>
   <p>https://mcamillosf.github.io/to-do-list/</p>
-  <p>https://mcamillosf.github.io/recipes-app/#/</p>
+  <p>https://mcamillosf.github.io/recipes-app/#/</p><span>Resolução: 360x640 (Mobile)</span>
   
   <hr />
   
