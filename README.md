@@ -44,14 +44,14 @@
   <hr />
   
   ### Projetos:
-  <p>https://mcamillosf.github.io/pixel-art/</p>
-  <p>https://mcamillosf.github.io/trybewarts/</p>
-  <p>https://mcamillosf.github.io/to-do-list/</p>
-  <p>https://mcamillosf.github.io/recipes-app/#/ <span> Resolução: 360x640 (Mobile)</span></p>
+  <p><a href="https://mcamillosf.github.io/pixel-art/">Pixel Art</a></p>
+  <p><a href="https://mcamillosf.github.io/trybewarts/">Trybewarts</a></p>
+  <p><a href="https://mcamillosf.github.io/to-do-list/">To do List</a></p>
+  <p><a href="https://mcamillosf.github.io/recipes-app/#/">Recipes App</a> <span> Resolução: 360x640 (Mobile)</span></p>
   
   <hr />
   
-  <p>Inspirado por <a href="https://github.com/RoyMusthang">RoyMusthang</>
+  <p>Inspirado por <a href="https://github.com/RoyMusthang">RoyMusthang</a></p>
   
 <!--
 **mcamillosf/mcamillosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
