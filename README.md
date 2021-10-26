@@ -1,14 +1,14 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=391&height=54&lines=Eu+sou+Matheus!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=391&height=54&lines=I'm+Matheus!)
 <a href="https://www.linkedin.com/in/mcamillofernandes/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
   <br />
   
   <hr />
   
-  Meu nome é Matheus Camillo,
-  <p>Tenho 25 anos,</p>
-  <p>Sou do Rio de Janeiro - RJ,</p>
-  <p>Estudante da Trybe no curso de Desenvolvimento Web Full-Stack.</p>
+  <p>Hello there! My name is Matheus Camillo,</p>
+  <p>and i'm 25 years old.</p>
+  <p>I'm from Rio de Janeiro - RJ, Brazil</p>
+  <p>Currently student of Web development Full-Stack at Trybe.</p>
   
   <hr />
   
@@ -19,7 +19,7 @@
   
   <hr />
   
-  ### Ferramentas e Tecnologias que estou me aperfeiçoando:
+  ### Tools and technologies that i'm currently working with:
   <p>
   <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
@@ -43,7 +43,7 @@
   
   <hr />
   
-  ### Projetos:
+  ### Projects:
   <p><a href="https://mcamillosf.github.io/pixel-art/">Pixel Art</a></p>
   <p><a href="https://mcamillosf.github.io/trybewarts/">Trybewarts</a></p>
   <p><a href="https://mcamillosf.github.io/to-do-list/">To do List</a></p>
@@ -51,7 +51,7 @@
   
   <hr />
   
-  <p>Inspirado por <a href="https://github.com/RoyMusthang">RoyMusthang</a></p>
+  <p>Inspired by <a href="https://github.com/RoyMusthang">RoyMusthang</a></p>
   
 <!--
 **mcamillosf/mcamillosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
