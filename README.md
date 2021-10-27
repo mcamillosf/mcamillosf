@@ -6,10 +6,14 @@
   
   <hr />
   
+  ### About me:
+  
   <p>Hello there! My name is Matheus Camillo</p>
   <p>and i'm 25 years old.</p>
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
   <p>Currently student of Web development Full-Stack at Trybe.</p>
+  
+  [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheuscamillo.com.br/)
   
   <hr />
   
@@ -50,12 +54,6 @@
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
   </p>
-  
-  <hr />
-  
-  ### More about:
-
-  [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheuscamillo.com.br/)
   
   <hr />
   
