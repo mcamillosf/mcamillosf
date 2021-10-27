@@ -19,7 +19,7 @@
   
   <hr />
   
-  ### Tools and technologies that i'm currently working with:
+  ### Tools and technologies that i'm currently studying and working with:
   <p>
   <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
