@@ -1,14 +1,24 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=391&height=54&lines=I'm+Matheus!)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=808080&size=45&center=true&vCenter=true&width=400&height=54&lines=Hi!+I'm+Matheus!)
 <a href="https://www.linkedin.com/in/mcamillofernandes/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a><br/>
   <br />
   
   <hr />
   
-  <p>Hello there! My name is Matheus Camillo,</p>
+  <p>Hello there! My name is Matheus Camillo</p>
   <p>and i'm 25 years old.</p>
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
   <p>Currently student of Web development Full-Stack at Trybe.</p>
+  
+  <hr />
+  
+  ### Workspace:
+  
+  <p>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_2700-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX2060S-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <p/>
   
   <hr />
   
@@ -44,11 +54,17 @@
   <hr />
   
   ### More about:
-  <p><a href="https://matheuscamillo.com.br/">My Website</a></p>
+
+  [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheuscamillo.com.br/)
   
   <hr />
   
   <p>Inspired by <a href="https://github.com/RoyMusthang">RoyMusthang</a></p>
+  
+  <hr />
+  
+  <p align="rigth"> <img src="https://komarev.com/ghpvc/?username=mcamillosf" alt="Josué Lobo" /></p>
+  
   
 <!--
 **mcamillosf/mcamillosf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
