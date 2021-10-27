@@ -43,11 +43,8 @@
   
   <hr />
   
-  ### Projects:
-  <p><a href="https://mcamillosf.github.io/pixel-art/">Pixel Art</a></p>
-  <p><a href="https://mcamillosf.github.io/trybewarts/">Trybewarts</a></p>
-  <p><a href="https://mcamillosf.github.io/to-do-list/">To do List</a></p>
-  <p><a href="https://mcamillosf.github.io/recipes-app/#/">Recipes App</a> <span> Resolução: 360x640 (Mobile)</span></p>
+  ### More about:
+  <p><a href="https://matheuscamillo.com.br/">My Website</a></p>
   
   <hr />
   
