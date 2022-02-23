@@ -27,8 +27,8 @@
   <hr />
   
   <div>
-  <img width="472em" src="https://github-readme-stats.vercel.app/api?username=mcamillosf&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamillosf&layout=compact&langs_count=7&theme=radical">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mcamillosf&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamillosf&layout=compact&langs_count=7&theme=radical">
   </div>
   
   <hr />
