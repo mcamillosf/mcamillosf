@@ -11,7 +11,7 @@
   <p>Hello there! My name is Matheus Camillo</p>
   <p>and i'm 27 years old.</p>
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
-  <p>A Fullstack Engineer.</p>
+  <p>I'm a Fullstack Engineer.</p>
   
   [![MeuSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheuscamillo.com.br/)
   
