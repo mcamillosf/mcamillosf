@@ -9,7 +9,7 @@
   ### About me:
   
   <p>Hello there! My name is Matheus Camillo</p>
-  <p>and i'm 25 years old.</p>
+  <p>and i'm 27 years old.</p>
   <p>I'm from Rio de Janeiro - RJ, Brazil</p>
   <p>Currently student of Web development Full-Stack at Trybe.</p>
   
