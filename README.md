@@ -21,7 +21,7 @@
   
   <p>
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_7800x3d-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-RTX4060 Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-RTX4060 Ti 16GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <p/>
   
   <hr />
